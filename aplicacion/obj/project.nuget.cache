@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L8liwyGOKwDlkxEl5rcVKpeYptB1Ymb9eVXprc8TRa6zwGG9DMqnG1X7QPpw7t/CkQm/9cId5IWQrVov0TCRxQ==",
+  "dgSpecHash": "LDaeresi/oV1AWubMNL+HTYnfxTSxf6fb8EErgwfp2bPd+BF23vA69juGn4/RiKPmkTQrP0cla28xHlROc0Y6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\desktop\\proyectosnet\\grupo23\\aplicacion\\aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

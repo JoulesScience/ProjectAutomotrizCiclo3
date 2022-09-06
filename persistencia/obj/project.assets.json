@@ -7217,11 +7217,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\desktop\\proyectosnet\\grupo23\\persistencia\\persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
       "projectName": "persistencia",
-      "projectPath": "C:\\Users\\usuario\\desktop\\proyectosnet\\grupo23\\persistencia\\persistencia.csproj",
+      "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\desktop\\proyectosnet\\grupo23\\persistencia\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7238,8 +7238,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\usuario\\desktop\\proyectosnet\\grupo23\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\usuario\\desktop\\proyectosnet\\grupo23\\Dominio\\Dominio.csproj"
+            "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj"
             }
           }
         }
