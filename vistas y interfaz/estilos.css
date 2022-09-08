@@ -10,8 +10,13 @@ a{
 header{
     display: flex;
     justify-content: space-between;
+<<<<<<< HEAD
     min-height: 95px;
     background-color:rgb(49, 142, 137);
+=======
+    min-height: 85px;
+    background-color:rgb(50, 200, 130);
+>>>>>>> 0cca55fa64d0edc5edf36b0afbea92a301f972ba
     align-items: center;
     padding: 18px;
 }
@@ -27,7 +32,7 @@ header{
 }
 
 nav a{
-    font-weight: 600;
+    font-weight: 400;
     padding-right: 18px;
 }
 
