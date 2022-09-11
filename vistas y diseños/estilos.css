@@ -10,8 +10,17 @@ a{
 header{
     display: flex;
     justify-content: space-between;
+
+    min-height: 95px;
+    background-color:rgb(49, 142, 137);
+
     min-height: 85px;
+<<<<<<< HEAD:vistas y interfaz/estilos.css
     background-color:rgb(200, 50, 187);
+=======
+    background-color:rgb(50, 200, 130);
+
+>>>>>>> 590e83d47f7c1e5b69e5f64add109dd7ecc71e84:vistas y diseños/estilos.css
     align-items: center;
     padding: 18px;
 }
