@@ -4,14 +4,14 @@ body{
 }
 a{
     text-decoration:solid;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 header{
     display: flex;
     justify-content: space-between;
     min-height: 85px;
-    background-color:rgb(50, 200, 130);
+    background-color:rgb(200, 50, 187);
     align-items: center;
     padding: 18px;
 }
