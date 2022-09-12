@@ -1,0 +1,52 @@
+﻿@page
+@model MyApp.Namespace.ListModel
+@{
+}
+<div class= "justify-conten-center text-center">
+<h1>Listado de Personas</h1>
+<br>
+</div>
+<div>
+    <div>
+      <a asp-page="Create"> Crear una nueva persona</a>
+      <i class="fa-sharp fa-solid fa-plus"></i>
+    </div>
+    <br>
+    <table class="table table-dark table-striped">
+        <tr>
+            <th>Id</th>
+            <th>Nombres</th>
+            <th>Apellidos</th>
+            <th>direccion</th>
+            <th>Celular</th>
+            <th>Detalle</th>
+            <th>Eliminar</th>
+            <th>Actulizar</th>
+        </tr>
+         @foreach (var persona in Model.Personas)
+          {
+            <tr><td>@persona.Id</td>
+                <td>@persona.Nombres</td>
+                 <td>@persona.Apellidos</td>
+                 <td>@persona.Direccion</td>
+                 <td>@persona.Celular</td>
+                 <td>
+                    <a class= "btn  btn-primary" asp-page="./Details">
+                    <i class="fa fa-circle"></i></a>
+                    
+                 </td>
+                 <td>
+                    <a class= "btn  btn-danger" asp-page="./Delete" asp-route-id="@persona.Id">
+                    <i class="fa-sharp fa-solid fa-trash"></i></a>
+                    
+                 </td>
+                  <td>
+                    <a class= "btn  btn-primary" asp-page="./Details">
+                     <i class="fa-sharp fa-solid fa-pencil"></i>
+                    </a>
+                 </td>
+             </tr> 
+          }
+
+    </table>
+</div>
