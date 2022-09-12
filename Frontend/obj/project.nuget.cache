@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QF8IlfhEWv0cP42Aky+vViBYegMoT5Xlqw7kfvrcF8Z9eYU8oUxh7bREZ9SlehQXttY0fztDcgeievaamEnaEQ==",
+  "dgSpecHash": "Ntyhf3VYnMRK8CgPa1lRd7mzb0b0xdXyc7vBi/las6izeVKvinf4Z6RncUnVaSm9h5mnpoG9QN/ZUv0owSK56Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Frontend\\Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -101,12 +101,5 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
