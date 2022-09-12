@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Dmr0We3dFXErK4YbwfNQ7Zr8ukqFEJZjEXmq7C7fzzJetCBKZljNMbJspzZZYqS5/r7qgSNSJsvGF/tn7YjXlg==",
+  "dgSpecHash": "5J2nTxJ5Pu3VLwOS1NE/hC8naOUmbCkRq/xfHPgGSZDSpdawDBvNbOUDBhJJ5IK7zlFaSmX2V4DZqxrwVuHOaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Uribe\\Documents\\REINALDO\\carpeta proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Sevilla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Sevilla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Uribe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Uribe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

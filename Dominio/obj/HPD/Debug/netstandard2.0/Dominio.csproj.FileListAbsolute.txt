@@ -1,0 +1,9 @@
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\Dominio\bin\HPD\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\Dominio\bin\HPD\Debug\netstandard2.0\Dominio.dll
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\Dominio\bin\HPD\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\Dominio\obj\HPD\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\Dominio\obj\HPD\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\Dominio\obj\HPD\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\Dominio\obj\HPD\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\Dominio\obj\HPD\Debug\netstandard2.0\Dominio.dll
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\Dominio\obj\HPD\Debug\netstandard2.0\Dominio.pdb

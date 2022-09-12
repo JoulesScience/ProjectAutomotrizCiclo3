@@ -1,0 +1,12 @@
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\obj\HPD\Debug\netstandard2.1\persistencia.csprojAssemblyReference.cache
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\obj\HPD\Debug\netstandard2.1\persistencia.AssemblyInfoInputs.cache
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\obj\HPD\Debug\netstandard2.1\persistencia.AssemblyInfo.cs
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\obj\HPD\Debug\netstandard2.1\persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\bin\HPD\Debug\netstandard2.1\persistencia.deps.json
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\bin\HPD\Debug\netstandard2.1\persistencia.dll
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\bin\HPD\Debug\netstandard2.1\persistencia.pdb
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\bin\HPD\Debug\netstandard2.1\Dominio.dll
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\bin\HPD\Debug\netstandard2.1\Dominio.pdb
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\obj\HPD\Debug\netstandard2.1\persistencia.csproj.CopyComplete
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\obj\HPD\Debug\netstandard2.1\persistencia.dll
+C:\Users\Uribe\Documents\REINALDO\carpeta proyecto\ProjectAutomotrizCiclo3\persistencia\obj\HPD\Debug\netstandard2.1\persistencia.pdb

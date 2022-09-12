@@ -179,19 +179,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sevilla\\.nuget\\packages\\": {}
+    "C:\\Users\\Uribe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Uribe\\Documents\\REINALDO\\carpeta proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
-      "packagesPath": "C:\\Users\\Sevilla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\obj\\",
+      "projectPath": "C:\\Users\\Uribe\\Documents\\REINALDO\\carpeta proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
+      "packagesPath": "C:\\Users\\Uribe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Uribe\\Documents\\REINALDO\\carpeta proyecto\\ProjectAutomotrizCiclo3\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sevilla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Uribe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
