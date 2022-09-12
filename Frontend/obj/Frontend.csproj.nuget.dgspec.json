@@ -1,10 +1,9 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj": {}
+    "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj": {}
   },
   "projects": {
-<<<<<<< HEAD
     "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -62,19 +61,19 @@
       }
     },
     "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj": {
-=======
-    "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj": {
->>>>>>> f9f056cc0664fc1f4abe467805b74c463bd92246
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
-        "packagesPath": "C:\\Users\\Sevilla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\obj\\",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Sevilla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

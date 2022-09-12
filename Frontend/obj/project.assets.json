@@ -5760,27 +5760,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sevilla\\.nuget\\packages\\": {}
+    "C:\\Users\\usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
       "projectName": "Frontend",
       "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
-      "projectName": "Frontend",
-      "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
-      "packagesPath": "C:\\Users\\Sevilla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\obj\\",
->>>>>>> f9f056cc0664fc1f4abe467805b74c463bd92246
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Sevilla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5837,5 +5833,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
