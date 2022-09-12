@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "QF8IlfhEWv0cP42Aky+vViBYegMoT5Xlqw7kfvrcF8Z9eYU8oUxh7bREZ9SlehQXttY0fztDcgeievaamEnaEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
@@ -101,5 +102,11 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "3ZJv8NI04GTRPMNDIidQMgFTTyZdqJnxODtXauONVMvs8J7E8ZS5LM3nNb+ms31Fx1ob5DDSYAejC+aCk5g1Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> f9f056cc0664fc1f4abe467805b74c463bd92246
   "logs": []
 }

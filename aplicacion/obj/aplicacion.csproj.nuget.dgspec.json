@@ -1,23 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj": {}
+<<<<<<< HEAD
+    "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj": {
+    "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj",
         "projectName": "aplicacion",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\aplicacion\\obj\\",
+        "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj",
+        "packagesPath": "C:\\Users\\Sevilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\aplicacion\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sevilla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj": {}
+  },
+  "projects": {
+    "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj",
+        "projectName": "aplicacion",
+        "projectPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\aplicacion\\aplicacion.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\aplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 590e83d47f7c1e5b69e5f64add109dd7ecc71e84
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -28,11 +42,19 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj"
+<<<<<<< HEAD
+              "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj"
+              "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj": {
+                "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj"
+=======
+              "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj"
+              },
+              "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj": {
+                "projectPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj"
+>>>>>>> 590e83d47f7c1e5b69e5f64add109dd7ecc71e84
               }
             }
           }
@@ -72,20 +94,31 @@
         }
       }
     },
-    "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
+<<<<<<< HEAD
+    "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Sevilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sevilla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 590e83d47f7c1e5b69e5f64add109dd7ecc71e84
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -128,20 +161,31 @@
         }
       }
     },
-    "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj": {
+<<<<<<< HEAD
+    "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
         "projectName": "persistencia",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\obj\\",
+        "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
+        "packagesPath": "C:\\Users\\Sevilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\persistencia\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sevilla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
+        "projectName": "persistencia",
+        "projectPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 590e83d47f7c1e5b69e5f64add109dd7ecc71e84
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -152,8 +196,13 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj"
+<<<<<<< HEAD
+              "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj"
+=======
+              "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj"
+>>>>>>> 590e83d47f7c1e5b69e5f64add109dd7ecc71e84
               }
             }
           }
