@@ -95,6 +95,7 @@ C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\persistencia.dll
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\persistencia.pdb
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
