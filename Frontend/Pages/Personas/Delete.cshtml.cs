@@ -18,7 +18,7 @@ namespace MyApp.Namespace
         }
         public void OnGet(int id)
         {
-            _repo.Get(id);
+            Persona = _repo.Get(id);
             
         }
          public IActionResult OnPost(int id){
