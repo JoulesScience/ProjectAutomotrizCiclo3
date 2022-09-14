@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "juKzQAAT9joUZcq1Wsh3X3yX7Iom2nANlyU3tUcSBsQ+bWnjKIAhlirBGYVefDlwckbhirfhh+rDdlxGjplg6Q==",
+  "dgSpecHash": "IQe8Yzxr3OD0dA8rR6QFNqGqnoZOQE0KtXeQbldONarmfSGvCvWPsNX0warWm2spHCa+uDqUyDhVn25WS2X+ig==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luz\\OneDrive\\Escritorio\\inicio.html\\ProjectAutomotrizCiclo3\\Frontend\\Frontend.csproj",
   "expectedPackageFiles": [
@@ -102,5 +102,12 @@
     "C:\\Users\\Luz\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\Luz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Luz\\OneDrive\\Escritorio\\inicio.html\\ProjectAutomotrizCiclo3\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
