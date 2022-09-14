@@ -7263,23 +7263,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
+      "projectUniqueName": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
       "projectName": "persistencia",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
-      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\persistencia\\obj\\",
+      "projectPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
+      "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+      "outputPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\persistencia\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7290,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj"
+            "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
+              "projectPath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj"
             }
           }
         }
