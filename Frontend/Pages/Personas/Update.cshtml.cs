@@ -12,17 +12,14 @@ namespace MyApp.Namespace
     public class UpdateModel : PageModel
   {
     private  readonly IRepositorioPersona _repo;
-            
+    public Persona Persona { get; set; }
     public UpdateModel(IRepositorioPersona repositorio){
         _repo = repositorio;
     }
     
-    public Persona Persona { get; set; }
-            
-
-    public void OnGet(int id)
+    public void OnGet(int Id)
     { 
-       Persona = _repo.Get(id);
+       Persona = _repo.Get(Id);
     }
     public IActionResult OnPost(Persona persona){
                 

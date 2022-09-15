@@ -9,6 +9,8 @@
 <div class="row"></div>
     <div class="col-md-4">
         <form method="post">
+             
+             
             
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -31,9 +33,12 @@
                 <input asp-for="Persona.Celular" class="form-control"/>
                 <span asp-validation-for="Persona.Celular" class="text-danger"></span>
             </div>
+            <input type="hidden" asp-for="Persona.Id"/>
+            <input type="hidden" asp-for="Persona"/>
             <div class="form-group">
-                <input type="submit" value="modificar persona" class="btn btn-primary"/>
+                <input type="submit" value="modificar persona" class="btn btn-primary" asp-page="Update/OnPost"/>
             </div>
+
         </form>
     </div>
 </div>
