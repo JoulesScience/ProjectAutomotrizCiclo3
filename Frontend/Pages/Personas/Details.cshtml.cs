@@ -12,14 +12,14 @@ namespace MyApp.Namespace
     public class DetailsModel : PageModel
     {
         private  readonly IRepositorioPersona _repo;
-public Persona Persona { get; set; }
-public DetailsModel(IRepositorioPersona repositorio){
-    _repo = repositorio;
-}
-public void OnGet(int id)
-{
-    Persona = _repo.Get(id);
+        public Persona Persona { get; set; }
+        public DetailsModel(IRepositorioPersona repositorio){
+        _repo = repositorio;
+        }
+        public void OnGet(int id)
+        {
+        Persona = _repo.Get(id);
     
-}
+        }
     }
 }
