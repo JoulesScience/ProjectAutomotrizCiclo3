@@ -47,7 +47,6 @@ C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netco
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.dll
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
@@ -58,3 +57,4 @@ C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netco
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.dll
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache

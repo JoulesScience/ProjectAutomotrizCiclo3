@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj": {}
+    "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Frontend\\Frontend.csproj": {}
   },
   "projects": {
     "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj": {
@@ -41,6 +41,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -57,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj": {
+    "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Frontend\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
+        "projectPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\Sevilla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\frontend\\obj\\",
+        "outputPath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sevilla\\AppData\\Roaming\\NuGet\\NuGet.Config"

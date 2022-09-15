@@ -1,0 +1,32 @@
+﻿@page
+@model MyApp.Namespace.DeleteModel2
+@{
+}
+<h1>Estas seguro eliminar técnico</h1>
+<br>
+<div class="row">
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Tecnico.Especialidad)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Tecnico.Especialidad)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Tecnico.Identificaion_id)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Tecnico.Identificaion_id)
+    </dd>
+</div>
+<br>
+
+<form method="post">
+    <input type="hidden" asp-for="Tecnico.Id"> 
+    <input type="submit" value="Eliminar" class="btn btn-danger" asp-page="/Delete/OnPost"/>
+</form>
+<div>
+    <a asp-page="./List"  class="btn btn-secondary" > Volver</a>
+</div>
+
+
+               

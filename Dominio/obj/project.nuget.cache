@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "Dmr0We3dFXErK4YbwfNQ7Zr8ukqFEJZjEXmq7C7fzzJetCBKZljNMbJspzZZYqS5/r7qgSNSJsvGF/tn7YjXlg==",
+  "dgSpecHash": "AFxB3evt4rpFPNp2WzD5HNC9Ng/SbWuxQdiqClwqehsv8e4zQ9oTVWWFwNf75Jniu5bIrm0nVGX+GUF/jGIx8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sevilla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Sevilla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Sevilla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sevilla\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

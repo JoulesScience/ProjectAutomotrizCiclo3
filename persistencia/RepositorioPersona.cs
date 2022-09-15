@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Dominio;
+using System.ComponentModel.DataAnnotations;
+
 
 namespace persistencia
 {
@@ -28,12 +30,12 @@ namespace persistencia
         //implementado repositorio  Read, Leer o buscar un persona por id
         Persona IRepositorioPersona.Get(int idPersona){
             return  _applicationContext.personas.FirstOrDefault(
-                p => p.Id == idPersona);
+                p => p.Id == idPersona); //p.CedulaId
         }
         //implementado repositorio Update, actulizar datos
         Persona IRepositorioPersona.Update(Persona persona){
             var  persona_encontrada = _applicationContext.personas.FirstOrDefault(
-                p => p.Id == persona.Id);
+                p => p.Id == persona.Id); // p.CedulaId== persona.CedulaId
             if(persona_encontrada != null){
                 persona_encontrada.Nombres = persona.Nombres;
                 persona_encontrada.Apellidos = persona.Apellidos;
@@ -46,7 +48,7 @@ namespace persistencia
         //implementado repositorio Delete 
         void IRepositorioPersona.Delete(int idPersona){
             var  persona_encontrada = _applicationContext.personas.FirstOrDefault(
-                p => p.Id == idPersona);
+                p => p.Id == idPersona); //p.CedulaId 
             if(persona_encontrada== null){
                 return;
                 }

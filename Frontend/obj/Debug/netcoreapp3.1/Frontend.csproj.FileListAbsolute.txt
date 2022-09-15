@@ -88,6 +88,8 @@ C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+>>>>>>> 2de407ad5ba5329ac8a6e8839f8f7f9668e798c3
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -155,6 +157,11 @@ C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\net
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.input.cache
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.output.cache
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorCoreGenerate.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Create.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Delete.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Details.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\List.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Update.cshtml.g.cs
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Create.cshtml.g.cs
@@ -165,6 +172,11 @@ C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\net
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Create.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Delete.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Details.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\List.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Update.cshtml.g.cs
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache

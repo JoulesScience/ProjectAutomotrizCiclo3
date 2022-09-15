@@ -33,6 +33,12 @@
 <br>
 
 <form method="post">
-    <input type="hidden" asp-for="Persona.Id">
-    <input type="submit" value="eliminar" class="btn btn-danger" asp-page="/Delete/OnPost"/>
+    <input type="hidden" asp-for="Persona.Id"> 
+    <input type="submit" value="Eliminar" class="btn btn-danger" asp-page="/Delete/OnPost"/>
 </form>
+<div>
+    <a asp-page="./List"  class="btn btn-secondary" > Volver</a>
+</div>
+
+
+               

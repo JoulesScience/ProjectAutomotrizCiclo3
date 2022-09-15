@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zVE6GundNdGAbPzTFCGk9XHw1/L5aN+8HZZ2fUbISkMYbpALfTb3lQQrzlsvKEEsomLKoq5IO2V36yP3rEnBKw==",
+  "dgSpecHash": "QV2An5q46ELURQTnY9pXlIW61wLMBlysMCkQnlA0PY9ghbIdbR06v/pW/niEhBsydqHv50XhiiQZb28erOVViw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\persistencia\\persistencia.csproj",
   "expectedPackageFiles": [
@@ -132,5 +132,12 @@
     "C:\\Users\\Sevilla\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Sevilla\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Sevilla\\Desktop\\Proyecto\\ProjectAutomotrizCiclo3\\persistencia\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
