@@ -38,6 +38,7 @@ C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\n
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.dll
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+<<<<<<< HEAD
 D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.json
 D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -58,3 +59,25 @@ D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\sta
 D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.dll
 D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
 D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+=======
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.StaticWebAssets.xml
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.AssemblyReference.cache
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+>>>>>>> c97f0a829500ac08f062ca26900ea1907388f7e7

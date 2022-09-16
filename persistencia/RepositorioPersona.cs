@@ -36,6 +36,8 @@ namespace persistencia
         Persona IRepositorioPersona.Update(Persona persona){
             var  persona_encontrada = _applicationContext.personas.FirstOrDefault(
                 p => p.Id == persona.Id); // p.CedulaId== persona.CedulaId
+                Console.WriteLine(persona.Nombres + " " + persona.Apellidos + " " + persona.Id);
+
             if(persona_encontrada != null){
                 persona_encontrada.Nombres = persona.Nombres;
                 persona_encontrada.Apellidos = persona.Apellidos;

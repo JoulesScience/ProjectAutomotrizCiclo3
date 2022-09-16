@@ -2,4 +2,50 @@
 @model MyApp.Namespace.UpdateModel
 @{
 }
-<h1>Actualizar persona</h1>
+<div class= "justify-conten-center text-left">
+    <h1>Modificar persona</h1>
+</div>
+<br>
+<div class="row"></div>
+    <div class="col-md-4">
+        <form method="post">
+             
+             
+            
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Persona.Nombres" class="Control-Label"></label>
+                <input asp-for="Persona.Nombres" class="form-control"/>
+                <span asp-validation-for="Persona.Nombres" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Persona.Apellidos" class="Control-Label"></label>
+                <input asp-for="Persona.Apellidos" class="form-control"/>
+                <span asp-validation-for="Persona.Apellidos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Persona.Direccion" class="Control-Label"></label>
+                <input asp-for="Persona.Direccion" class="form-control"/>
+                <span asp-validation-for="Persona.Direccion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Persona.Celular" class="Control-Label"></label>
+                <input asp-for="Persona.Celular" class="form-control"/>
+                <span asp-validation-for="Persona.Celular" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Persona.Id"/>
+            <input type="hidden" asp-for="Persona"/>
+            <div class="form-group">
+                <input type="submit" value="modificar persona" class="btn btn-primary" asp-page="Update/OnPost"/>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./List">Volver</a>
+</div>
+
+
+

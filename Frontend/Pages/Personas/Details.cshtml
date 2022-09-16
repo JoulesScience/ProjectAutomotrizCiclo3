@@ -3,3 +3,38 @@
 @{
 }
 <h1>Detalle persona</h1>
+<br>
+<div class="row">
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Persona.Nombres)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Persona.Nombres)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Persona.Apellidos)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Persona.Apellidos)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Persona.Direccion)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Persona.Direccion)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Persona.Celular)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Persona.Celular)
+    </dd>
+</div>
+<br>
+
+<form method="post">
+    <input type="hidden" asp-for="Persona.Id"> 
+</form>
+<div>
+    <a asp-page="./List"  class="btn btn-secondary" > Volver</a>
+</div>

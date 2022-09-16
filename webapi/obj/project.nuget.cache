@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\webapi\\webapi.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\webapi\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
