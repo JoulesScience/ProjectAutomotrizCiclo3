@@ -3,3 +3,32 @@
 @{
 }
 <h1>Detalle cliente</h1>
+<br>
+<div class="row">
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Cliente.Factura_id)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Cliente.Factura_id)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Cliente.Identificaion_id)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Cliente.Identificaion_id)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Cliente.placa_id)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Cliente.placa_id)
+    </dd>    
+</div>
+<br>
+
+<form method="post">
+    <input type="hidden" asp-for="Cliente.Id"> 
+</form>
+<div>
+    <a asp-page="./List"  class="btn btn-secondary" > Volver</a>
+</div>

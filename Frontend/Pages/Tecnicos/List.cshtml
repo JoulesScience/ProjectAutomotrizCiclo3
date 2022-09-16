@@ -3,12 +3,12 @@
 @{
 }
 <div class= "justify-conten-center text-center">
-<h1>Listado de Tecnicos</h1>
+<h1>Listado de Técnicos</h1>
 <br>
 </div>
 <div>
     <div>
-      <a asp-page="Create" class="btn btn-success"> Crear nuevo tecnico</a>
+      <a asp-page="Create" class="btn btn-success"> Crear una nueva tecnico</a>
       <i class="fa fa-plus"></i>
     </div>
     <br>
@@ -16,10 +16,7 @@
         <tr>
             <th>Id</th>
             <th>Especialidad</th>
-            <th>Identificaion_id</th>
-            <th>Detalle</th>
-            <th>Eliminar</th>
-            <th>Actulizar</th>
+            <th>Identificaion_id</th>            
         </tr>
          @foreach (var tecnico in Model.Tecnicos)
           {
@@ -27,7 +24,7 @@
                 <td>@tecnico.Especialidad</td>
                  <td>@tecnico.Identificaion_id</td>
                  <td>
-                    <a class= "btn  btn-primary" asp-page="./Details">
+                    <a class= "btn  btn-primary" asp-page="./Details"asp-route-id="@tecnico.Id">
                     <i class="fa fa-circle"></i></a>
                     
                  </td>
@@ -37,7 +34,7 @@
                     
                  </td>
                   <td>
-                    <a class= "btn  btn-primary" asp-page="./Update">
+                    <a class= "btn  btn-primary" asp-page="./Update" asp-route-id="@tecnico.Id">
                      <i class="fa-sharp fa-solid fa-pencil"></i>
                     </a>
                  </td>

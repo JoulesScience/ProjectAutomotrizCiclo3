@@ -23,7 +23,7 @@ namespace MyApp.Namespace
         }
          public IActionResult OnPost(int id){
             _repo.Delete(id);
-            return new RedirectToPageResult("/Tecnicoss/List");
+            return new RedirectToPageResult("/Tecnicos/List");
         }
     }
 }

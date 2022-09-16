@@ -24,8 +24,8 @@ namespace MyApp.Namespace
 
             if (!ModelState.IsValid)
                 return Page();
-            _repo.Add(Tecnico);
-            return new RedirectToPageResult("/Tecnico/List");
+            _repo.Add(tecnico);
+            return new RedirectToPageResult("/Tecnicos/List");
         }
     }
 }
