@@ -1,0 +1,52 @@
+﻿@page
+@model MyApp.Namespace.ListModel4
+@{
+}
+<div class= "justify-conten-center text-center">
+<h1>Listado de Autos</h1>
+<br>
+</div>
+<div>
+    <div>
+      <a asp-page="Create" class="btn btn-success"> Crear una nuevo Autos</a>
+      <i class="fa fa-plus"></i>
+    </div>
+    <br>
+    <table class="table table-dark table-striped">
+        <tr>
+            <th>Id</th>
+            <th>Tipo</th>
+            <th>Transmision</th>
+            <th>placa_id</th>            
+            <th>Detalle</th>
+            <th>Eliminar</th>
+            <th>Actulizar</th>
+        </tr>
+         @foreach (var auto in Model.Autos)
+          {
+            <tr><td>@auto.Id</td>
+                <td>@auto.Tipo</td>
+                 <td>@auto.Transmision</td>
+                 <td>@auto.placa_id</td>                 
+                 <td>
+                    <a class= "btn  btn-primary" asp-page="./Details">
+                    <i class="fa fa-circle"></i></a>
+                    
+                 </td>
+                 <td>
+                    <a class= "btn  btn-danger" asp-page="./Delete" asp-route-id="@auto.Id">
+                    <i class="fa-sharp fa-solid fa-trash"></i></a>
+                    
+                 </td>
+                  <td>
+                    <a class= "btn  btn-primary" asp-page="./Update">
+                     <i class="fa-sharp fa-solid fa-pencil"></i>
+                    </a>
+                 </td>
+             </tr> 
+          }
+    </table>
+</div>
+<div>
+    <a asp-page="Index"  class="btn btn-secondary" > Volver</a>
+</div>

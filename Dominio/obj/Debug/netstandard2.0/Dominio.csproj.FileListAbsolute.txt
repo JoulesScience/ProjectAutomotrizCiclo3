@@ -25,3 +25,12 @@ C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Dominio\obj\Debug\
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

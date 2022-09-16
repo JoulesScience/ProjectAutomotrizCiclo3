@@ -38,3 +38,23 @@ C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\n
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.dll
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache

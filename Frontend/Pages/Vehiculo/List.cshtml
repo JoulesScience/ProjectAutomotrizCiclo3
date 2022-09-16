@@ -1,0 +1,58 @@
+﻿@page
+@model MyApp.Namespace.ListModel3
+@{
+}
+<div class= "justify-conten-center text-center">
+<h1>Listado de Vehiculos</h1>
+<br>
+</div>
+<div>
+    <div>
+      <a asp-page="Create" class="btn btn-success"> Crear un nuevo vehiculo</a>
+      <i class="fa fa-plus"></i>
+    </div>
+    <br>
+    <table class="table table-dark table-striped">
+        <tr>
+            <th>Id</th>
+            <th>Marca</th>
+            <th>Color</th>
+            <th>Modelo</th>
+            <th>Cilindraje</th>
+            <th>Fecha modelo</th>
+            <th>Tipo combustible</th>            
+            <th>Detalle</th>
+            <th>Eliminar</th>
+            <th>Actulizar</th>
+        </tr>
+         @foreach (var vehiculo in Model.Vehiculos)
+          {
+            <tr><td>@vehiculo.Id</td>
+                <td>@vehiculo.Marca</td>
+                 <td>@vehiculo.Color</td>
+                 <td>@vehiculo.Modelo</td>
+                 <td>@vehiculo.Cilindraje</td>
+                 <td>@vehiculo.fecha_modelo</td>
+                 <td>@vehiculo.tipo_combustible</td>
+                 <td>
+                    <a class= "btn  btn-primary" asp-page="./Details">
+                    <i class="fa fa-circle"></i></a>
+                    
+                 </td>
+                 <td>
+                    <a class= "btn  btn-danger" asp-page="./Delete" asp-route-id="@vehiculo.Id">
+                    <i class="fa-sharp fa-solid fa-trash"></i></a>
+                    
+                 </td>
+                  <td>
+                    <a class= "btn  btn-primary" asp-page="./Update">
+                     <i class="fa-sharp fa-solid fa-pencil"></i>
+                    </a>
+                 </td>
+             </tr> 
+          }
+    </table>
+</div>
+<div>
+    <a asp-page="Index"  class="btn btn-secondary" > Volver</a>
+</div>

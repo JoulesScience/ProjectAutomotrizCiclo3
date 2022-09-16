@@ -17,10 +17,13 @@ namespace MyApp.Namespace
             _repo = repositorio;
         }
         public void OnGet()
-        {
-
+        { 
+           
         }
         public IActionResult OnPost(Persona persona){
+
+            if (!ModelState.IsValid)
+                return Page();
             _repo.Add(persona);
             return new RedirectToPageResult("/Personas/List");
         }

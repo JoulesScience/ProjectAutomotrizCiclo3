@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "RUZJfHnsKfJemf4Mij/7Q7kHL1phJ7QMTwNP330xVb1Bh9DGbJaw7lRlrDnKC64MHe2THu2jqXlAjevNSyRIxA==",
+  "dgSpecHash": "QsrkEDi6ZG4IN4MUjvy3SQ/paLKlwXsDlxx5q0tvQNudI3UdtW0AoZhj5lnkHAu5X5OTZxzK9BVJ3S4YE5ZXvg==",
   "success": true,
   "projectFilePath": "D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\MINTIC\\ciclo 3\\G23\\ProjectAutomotrizCiclo3\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

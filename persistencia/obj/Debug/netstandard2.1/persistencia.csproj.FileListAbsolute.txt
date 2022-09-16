@@ -37,3 +37,15 @@ C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\persistencia\obj\D
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CopyComplete
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.dll
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.deps.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\Dominio.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csprojAssemblyReference.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfoInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfo.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CoreCompileInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CopyComplete
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.pdb
