@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vGQ1dzVRBMy6J6uZpdwokzsiBI6wjqgkovsdgd272KpubsPyfdqL9bKmTkgJCk+oAgpmdY6A5UJQ7LSBSVheWQ==",
+  "dgSpecHash": "0AKdvXRRQoNHrWee+vxxOpjicYdCC8rz+hp/sh5p4Y/ycfSmrND0C6N4lvhi5lqX8Mfz716159cpBxJ3PgXcHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luz\\OneDrive\\Escritorio\\inicio.html\\ProjectAutomotrizCiclo3\\webapi\\webapi.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Luz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\webapi\\webapi.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

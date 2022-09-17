@@ -1,19 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IEo+3JHsXvYNtXfFy8BFf8E0wQXX2eecNUo+kLN270yX3lrjbrE7M8K+1O9jtB8Jzup4Jbi5xVEk3wU8OhP2bQ==",
+  "dgSpecHash": "ZtU6PNynWQWpJ6Sj2D7GC8tSREwL/ukRUDY3wTTvF2/N60QB0ehqvwCO8wCcSym6UOWOh4OOpq7Qkkd07StgiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luz\\OneDrive\\Escritorio\\inicio.html\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Luz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Luz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Luz\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\Luz\\OneDrive\\Escritorio\\inicio.html\\ProjectAutomotrizCiclo3\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

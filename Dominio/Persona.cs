@@ -1,11 +1,12 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Dominio
 {
     public class Persona
     {
-        //[Key]
+        //[Key][DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int Id { get; set; } //CedulaId
         [Required(ErrorMessage="El campo Nombres es requerido"),Display(Name="Nombres"), StringLength(50)]
         public string Nombres { get; set; }
