@@ -2,4 +2,39 @@
 @model MyApp.Namespace.UpdateModel5
 @{
 }
-<h1>Actualizar camioneta</h1>
+<div class= "justify-conten-center text-left">
+<h1>Modificar camioneta</h1>
+</div>
+<br>
+<div class="row"></div>
+    <div class="col-md-4">
+        <form method="post">             
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Camioneta.Platon" class="Control-Label"></label>
+                <input asp-for="Camioneta.Platon" class="form-control"/>
+                <span asp-validation-for="Camioneta.Platon" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Camioneta.Transmision" class="Control-Label"></label>
+                <input asp-for="Camioneta.Transmision" class="form-control"/>
+                <span asp-validation-for="Camioneta.Transmision" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Camioneta.placa_id" class="Control-Label"></label>
+                <input asp-for="Camioneta.placa_id" class="form-control"/>
+                <span asp-validation-for="Camioneta.placa_id" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Camioneta.Id"/>
+            <input type="hidden" asp-for="Camioneta"/>
+            <div class="form-group">
+                <input type="submit" value="modificar camioneta" class="btn btn-primary" asp-page="Update/OnPost"/>
+            </div>            
+            <br>
+            <div>
+                <a asp-page="./List" class="btn btn-secondary">Volver</a>
+            </div>
+        </form>
+    </div>
+</div>
+

@@ -2,4 +2,47 @@
 @model MyApp.Namespace.UpdateModel3
 @{
 }
-<h1>Actualizar vehiculo</h1>
+<div class= "justify-conten-center text-left">
+    <h1>Modificar vehiculo</h1>
+</div>
+<br>
+<div class="row"></div>
+    <div class="col-md-4">
+        <form method="post">                            
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Vehiculo.Marca" class="Control-Label"></label>
+                <input asp-for="Vehiculo.Marca" class="form-control"/>
+                <span asp-validation-for="Vehiculo.Marca" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vehiculo.Color" class="Control-Label"></label>
+                <input asp-for="Vehiculo.Color" class="form-control"/>
+                <span asp-validation-for="Vehiculo.Color" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vehiculo.Modelo" class="Control-Label"></label>
+                <input asp-for="Vehiculo.Modelo" class="form-control"/>
+                <span asp-validation-for="Vehiculo.Modelo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vehiculo.Cilindraje" class="Control-Label"></label>
+                <input asp-for="Vehiculo.Cilindraje" class="form-control"/>
+                <span asp-validation-for="Vehiculo.Cilindraje" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Vehiculo.Id"/>
+            <input type="hidden" asp-for="Vehiculo"/>
+            <div class="form-group">
+                <input type="submit" value="modificar vehiculo" class="btn btn-primary" asp-page="Update/OnPost"/>
+            </div>
+            <br>
+            <div>
+                <a asp-page="./List" class="btn btn-primary">Volver</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+

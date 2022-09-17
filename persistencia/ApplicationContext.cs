@@ -6,7 +6,6 @@ namespace persistencia
 {
     public class ApplicationContext: DbContext
     {
-
         private const string connectionString = @"Data Source=PC-PC;Initial Catalog=EjemploG23;Integrated Security=True;";
 
         public DbSet<Persona> personas {get; set;}

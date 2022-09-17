@@ -35,7 +35,7 @@
                  <td>@vehiculo.fecha_modelo</td>
                  <td>@vehiculo.tipo_combustible</td>
                  <td>
-                    <a class= "btn  btn-primary" asp-page="./Details">
+                    <a class= "btn  btn-primary" asp-page="./Details" asp-route-id="@vehiculo.Id">
                     <i class="fa fa-circle"></i></a>
                     
                  </td>
@@ -45,7 +45,7 @@
                     
                  </td>
                   <td>
-                    <a class= "btn  btn-primary" asp-page="./Update">
+                    <a class= "btn  btn-primary" asp-page="./Update" asp-route-id="@vehiculo.Id">
                      <i class="fa-sharp fa-solid fa-pencil"></i>
                     </a>
                  </td>
