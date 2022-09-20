@@ -30,13 +30,13 @@ namespace persistencia
         //implementado repositorio  Read, Leer o buscar un persona por id
         Persona IRepositorioPersona.Get(int idPersona){
             return  _applicationContext.personas.FirstOrDefault(
-                p => p.Id == idPersona); //p.CedulaId
+                p => p.Identificaion_id == idPersona); //p.CedulaId
         }
         //implementado repositorio Update, actulizar datos
         Persona IRepositorioPersona.Update(Persona persona){
             var  persona_encontrada = _applicationContext.personas.FirstOrDefault(
-                p => p.Id == persona.Id); // p.CedulaId== persona.CedulaId
-                Console.WriteLine(persona.Nombres + " " + persona.Apellidos + " " + persona.Id);
+                p => p.Identificaion_id == persona.Identificaion_id); // p.CedulaId== persona.CedulaId
+                Console.WriteLine(persona.Nombres + " " + persona.Apellidos + " " + persona.Identificaion_id);
 
             if(persona_encontrada != null){
                 persona_encontrada.Nombres = persona.Nombres;
@@ -50,7 +50,7 @@ namespace persistencia
         //implementado repositorio Delete 
         void IRepositorioPersona.Delete(int idPersona){
             var  persona_encontrada = _applicationContext.personas.FirstOrDefault(
-                p => p.Id == idPersona); //p.CedulaId 
+                p => p.Identificaion_id == idPersona); //p.CedulaId 
             if(persona_encontrada== null){
                 return;
                 }

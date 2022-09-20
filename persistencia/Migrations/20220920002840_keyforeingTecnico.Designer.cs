@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using persistencia;
 
 namespace persistencia.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    partial class ApplicationContextModelSnapshot : ModelSnapshot
+    [Migration("20220920002840_keyforeingTecnico")]
+    partial class keyforeingTecnico
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -168,9 +170,6 @@ namespace persistencia.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("Identificaion_id")
-                        .IsUnique();
-
                     b.ToTable("tecnicos");
                 });
 
@@ -202,22 +201,6 @@ namespace persistencia.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("vehiculos");
-                });
-
-            modelBuilder.Entity("Dominio.Tecnico", b =>
-                {
-                    b.HasOne("Dominio.Persona", "Persona")
-                        .WithOne("tecnico")
-                        .HasForeignKey("Dominio.Tecnico", "Identificaion_id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Persona");
-                });
-
-            modelBuilder.Entity("Dominio.Persona", b =>
-                {
-                    b.Navigation("tecnico");
                 });
 #pragma warning restore 612, 618
         }

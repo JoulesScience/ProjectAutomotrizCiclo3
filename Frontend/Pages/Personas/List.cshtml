@@ -25,23 +25,23 @@
         </tr>
          @foreach (var persona in Model.Personas)
           {
-            <tr><td>@persona.Id</td>
+            <tr><td>@persona.Identificaion_id</td>
                 <td>@persona.Nombres</td>
                  <td>@persona.Apellidos</td>
                  <td>@persona.Direccion</td>
                  <td>@persona.Celular</td>
                  <td>
-                    <a class= "btn  btn-primary" asp-page="./Details"asp-route-id="@persona.Id">
+                    <a class= "btn  btn-primary" asp-page="./Details"asp-route-id="@persona.Identificaion_id">
                     <i class="fa fa-circle"></i></a>
                     
                  </td>
                  <td>
-                    <a class= "btn  btn-danger" asp-page="./Delete" asp-route-id="@persona.Id">
+                    <a class= "btn  btn-danger" asp-page="./Delete" asp-route-id="@persona.Identificaion_id">
                     <i class="fa-sharp fa-solid fa-trash"></i></a>
                     
                  </td>
                   <td>
-                    <a class= "btn  btn-primary" asp-page="./Update" asp-route-id="@persona.Id">
+                    <a class= "btn  btn-primary" asp-page="./Update" asp-route-id="@persona.Identificaion_id">
                      <i class="fa-sharp fa-solid fa-pencil"></i>
                     </a>
                  </td>
