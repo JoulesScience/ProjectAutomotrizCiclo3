@@ -6,7 +6,7 @@ namespace Dominio
 {
     public class Persona
     {
-       //[Key][DatabaseGenerated(DatabaseGeneratedOption.None)]
+        //[Key][DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int Id { get; set; } //CedulaId
         [Key]
         public int Identificaion_id { get; set; } //CedulaId
@@ -20,6 +20,7 @@ namespace Dominio
         [RegularExpression("[0-9]*$",ErrorMessage="Digite solo numeros")]
         public string Celular { get; set; }
         public Tecnico tecnico { get; set; }
+        public Cliente cliente { get; set; }
  
       
       

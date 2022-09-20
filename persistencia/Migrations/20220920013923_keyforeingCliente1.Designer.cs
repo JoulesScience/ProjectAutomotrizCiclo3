@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using persistencia;
 
 namespace persistencia.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    partial class ApplicationContextModelSnapshot : ModelSnapshot
+    [Migration("20220920013923_keyforeingCliente1")]
+    partial class keyforeingCliente1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -37,9 +39,6 @@ namespace persistencia.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("placa_id")
-                        .IsUnique();
-
                     b.ToTable("autos");
                 });
 
@@ -60,9 +59,6 @@ namespace persistencia.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("placa_id")
-                        .IsUnique();
 
                     b.ToTable("camionetas");
                 });
@@ -185,7 +181,7 @@ namespace persistencia.Migrations
 
             modelBuilder.Entity("Dominio.Vehiculo", b =>
                 {
-                    b.Property<int>("placa_id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .UseIdentityColumn();
@@ -208,31 +204,9 @@ namespace persistencia.Migrations
                     b.Property<string>("tipo_combustible")
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("placa_id");
+                    b.HasKey("Id");
 
                     b.ToTable("vehiculos");
-                });
-
-            modelBuilder.Entity("Dominio.Auto", b =>
-                {
-                    b.HasOne("Dominio.Vehiculo", "Vehiculo")
-                        .WithOne("auto")
-                        .HasForeignKey("Dominio.Auto", "placa_id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Vehiculo");
-                });
-
-            modelBuilder.Entity("Dominio.Camioneta", b =>
-                {
-                    b.HasOne("Dominio.Vehiculo", "Vehiculo")
-                        .WithOne("camioneta")
-                        .HasForeignKey("Dominio.Camioneta", "placa_id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Vehiculo");
                 });
 
             modelBuilder.Entity("Dominio.Cliente", b =>
@@ -262,13 +236,6 @@ namespace persistencia.Migrations
                     b.Navigation("cliente");
 
                     b.Navigation("tecnico");
-                });
-
-            modelBuilder.Entity("Dominio.Vehiculo", b =>
-                {
-                    b.Navigation("auto");
-
-                    b.Navigation("camioneta");
                 });
 #pragma warning restore 612, 618
         }

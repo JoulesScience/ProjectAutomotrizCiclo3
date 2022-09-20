@@ -28,12 +28,12 @@ namespace persistencia
         //implementado repositorio  Read, Leer o buscar un vehiculo por id
         Vehiculo IRepositorioVehiculo.Get(int idVehiculo){
             return  _applicationContext.vehiculos.FirstOrDefault(
-                v => v.Id == idVehiculo);
+                v => v.placa_id == idVehiculo);
         }
         //implementado repositorio Update, actulizar datos
         Vehiculo IRepositorioVehiculo.Update(Vehiculo vehiculo){
             var  vehiculo_encontrada = _applicationContext.vehiculos.FirstOrDefault(
-                v => v.Id == vehiculo.Id);
+                v => v.placa_id == vehiculo.placa_id);
             if(vehiculo_encontrada != null){
                 vehiculo_encontrada.Marca = vehiculo.Marca;
                 vehiculo_encontrada.Color = vehiculo.Color;
@@ -48,7 +48,7 @@ namespace persistencia
         //implementado repositorio Delete 
         void IRepositorioVehiculo.Delete(int idVehiculo){
             var  vehiculo_encontrada = _applicationContext.vehiculos.FirstOrDefault(
-                v => v.Id == idVehiculo);
+                v => v.placa_id == idVehiculo);
             if(vehiculo_encontrada== null){
                 return;
                 }

@@ -91,6 +91,7 @@ C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\n
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.dll
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
