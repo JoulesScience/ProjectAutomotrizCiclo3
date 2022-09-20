@@ -1,0 +1,38 @@
+﻿@page
+@model MyApp.Namespace.DeleteModel5
+@{
+}
+<h1>Estas seguro que quieres eliminar la camioneta</h1>
+<br>
+<div class="row">
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Camioneta.Platon)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Camioneta.Platon)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Camioneta.Transmision)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Camioneta.Transmision)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Camioneta.placa_id)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Camioneta.placa_id)
+    </dd>   
+</div>
+<br>
+
+<form method="post">
+    <input type="hidden" asp-for="Camioneta.Id"> 
+    <input type="submit" value="Eliminar" class="btn btn-danger" asp-page="/Delete/OnPost"/>
+</form>
+<div>
+    <a asp-page="./List"  class="btn btn-secondary" > Volver</a>
+</div>
+
+
+               

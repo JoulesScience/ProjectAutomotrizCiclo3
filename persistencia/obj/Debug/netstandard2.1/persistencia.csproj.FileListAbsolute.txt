@@ -12,10 +12,6 @@ C:\Users\usuario\Desktop\ProyectosNET\Grupo23\persistencia\obj\Debug\netstandard
 C:\Users\usuario\Desktop\ProyectosNET\Grupo23\persistencia\obj\Debug\netstandard2.1\persistencia.pdb
 <<<<<<< HEAD
 =======
-D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csprojAssemblyReference.cache
-D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfoInputs.cache
-D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfo.cs
-D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CoreCompileInputs.cache
 >>>>>>> 590e83d47f7c1e5b69e5f64add109dd7ecc71e84
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.deps.json
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.dll
@@ -29,6 +25,7 @@ C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\persistencia\obj\Debug
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CopyComplete
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.dll
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.pdb
+>>>>>>> 206c1f39841e077f02d2f13b4d2c5528eba62f30
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.deps.json
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.dll
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.pdb
@@ -42,6 +39,20 @@ C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\persistenci
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CopyComplete
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.dll
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.pdb
+>>>>>>> c97f0a829500ac08f062ca26900ea1907388f7e7
+>>>>>>> f25a79ea82d205a6c22cc332eed18bb75544a59a
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.deps.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\Dominio.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csprojAssemblyReference.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfoInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfo.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CoreCompileInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CopyComplete
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\persistencia\obj\Debug\netstandard2.1\persistencia.pdb
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.deps.json
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.dll
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\persistencia\bin\Debug\netstandard2.1\persistencia.pdb

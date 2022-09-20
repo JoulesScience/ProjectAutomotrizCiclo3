@@ -1,0 +1,38 @@
+﻿@page
+@model MyApp.Namespace.DeleteModel1
+@{
+}
+<h1>Estas seguro eliminar cliente</h1>
+<br>
+<div class="row">
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Cliente.Factura_id)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Cliente.Factura_id)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Cliente.Identificaion_id)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Cliente.Identificaion_id)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Cliente.placa_id)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Cliente.placa_id)
+    </dd>
+</div>
+<br>
+
+<form method="post">
+    <input type="hidden" asp-for="Cliente.Id"> 
+    <input type="submit" value="Eliminar" class="btn btn-danger" asp-page="/Delete/OnPost"/>
+</form>
+<div>
+    <a asp-page="./List"  class="btn btn-secondary" > Volver</a>
+</div>
+
+
+               

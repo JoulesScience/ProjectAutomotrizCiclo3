@@ -1,42 +1,5 @@
 <<<<<<< HEAD
 =======
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.exe
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.dll
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.Views.dll
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.Views.pdb
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cs
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.input.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.output.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorCoreGenerate.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cs
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.Views.pdb
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.dll
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
-C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CopyComplete
 >>>>>>> f9f056cc0664fc1f4abe467805b74c463bd92246
 >>>>>>> 2de407ad5ba5329ac8a6e8839f8f7f9668e798c3
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -127,91 +90,330 @@ C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Frontend\ob
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.exe
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.Views.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Frontend.Views.pdb
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Humanizer.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Dominio.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\persistencia.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\persistencia.pdb
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\bin\Debug\netcoreapp3.1\Dominio.pdb
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.input.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.output.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorCoreGenerate.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Create.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Delete.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Details.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\List.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Update.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cs
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.Views.pdb
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CopyComplete
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.dll
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
-C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+>>>>>>> c97f0a829500ac08f062ca26900ea1907388f7e7
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.Views.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.Views.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\persistencia.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\persistencia.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.input.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.output.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorCoreGenerate.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Create.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Delete.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Details.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\List.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Update.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Create.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Delete.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Details.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\List.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Update.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Create.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Delete.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Details.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\List.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Update.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.Views.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CopyComplete
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+>>>>>>> f25a79ea82d205a6c22cc332eed18bb75544a59a
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.Views.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.Views.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\persistencia.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\persistencia.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.input.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.output.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorCoreGenerate.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Autos\Create.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Autos\Delete.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Autos\Details.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Autos\List.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Autos\Update.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Camionetas\Create.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Camionetas\Delete.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Camionetas\Details.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Camionetas\List.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Camionetas\Update.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Create.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Delete.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Details.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\List.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Update.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Create.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Delete.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Details.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\List.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Update.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Create.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Delete.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Details.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\List.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Update.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\Create.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\Delete.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\Details.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\List.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\Update.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.Views.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CopyComplete
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+>>>>>>> 206c1f39841e077f02d2f13b4d2c5528eba62f30
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.Views.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Frontend.Views.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\persistencia.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\persistencia.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.input.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.output.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorCoreGenerate.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Autos\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Autos\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Autos\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Autos\List.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Autos\Update.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Camionetas\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Camionetas\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Camionetas\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Camionetas\List.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Camionetas\Update.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\List.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Update.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\List.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Update.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\List.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Update.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\List.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculo\Update.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.Views.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CopyComplete
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache

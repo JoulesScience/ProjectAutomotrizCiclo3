@@ -18,6 +18,10 @@ C:\Users\usuario\desktop\proyectosnet\grupo23\webapi\obj\Debug\netcoreapp3.1\sta
 C:\Users\usuario\desktop\proyectosnet\grupo23\webapi\obj\Debug\netcoreapp3.1\webapi.dll
 C:\Users\usuario\desktop\proyectosnet\grupo23\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
 C:\Users\usuario\desktop\proyectosnet\grupo23\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+<<<<<<< HEAD
+=======
+>>>>>>> f25a79ea82d205a6c22cc332eed18bb75544a59a
+>>>>>>> 206c1f39841e077f02d2f13b4d2c5528eba62f30
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.StaticWebAssets.xml
@@ -38,3 +42,63 @@ C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.dll
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+>>>>>>> c97f0a829500ac08f062ca26900ea1907388f7e7
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\webapi\obj\Debug\netcoreapp3.1\webapi.genruntimeconfig.cache

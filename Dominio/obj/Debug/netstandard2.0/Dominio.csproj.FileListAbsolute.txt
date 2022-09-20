@@ -7,6 +7,7 @@ C:\Users\usuario\Desktop\ProyectosNET\Grupo23\Dominio\obj\Debug\netstandard2.0\D
 C:\Users\usuario\Desktop\ProyectosNET\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\Users\usuario\Desktop\ProyectosNET\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
 C:\Users\usuario\Desktop\ProyectosNET\Grupo23\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.dll
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
@@ -16,6 +17,8 @@ C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Dominio\obj\Debug\nets
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\Users\Sevilla\Desktop\Proyecto\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+=======
+>>>>>>> 206c1f39841e077f02d2f13b4d2c5528eba62f30
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.dll
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
@@ -26,6 +29,17 @@ C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Dominio\obj
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\Users\Luz\OneDrive\Escritorio\inicio.html\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+>>>>>>> c97f0a829500ac08f062ca26900ea1907388f7e7
+>>>>>>> f25a79ea82d205a6c22cc332eed18bb75544a59a
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+D:\MINTIC\ciclo 3\G23\ProjectAutomotrizCiclo3\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.dll
 C:\Users\usuario\Desktop\ProyectosNET\ProjectAutomotrizCiclo3\Dominio\bin\Debug\netstandard2.0\Dominio.pdb

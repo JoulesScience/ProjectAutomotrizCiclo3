@@ -1,0 +1,41 @@
+﻿@page
+@model MyApp.Namespace.CreateModel4
+@{
+}
+<div class= "justify-conten-center text-left">
+    <h1>Crear auto</h1>
+</div>
+<br>
+<div class="row"></div>
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Auto.Tipo" class="Control-Label"></label>
+                <input asp-for="Auto.Tipo" class="form-control"/>
+                <span asp-validation-for="Auto.Tipo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Auto.Transmision" class="Control-Label"></label>
+                <input asp-for="Auto.Transmision" class="form-control"/>
+                <span asp-validation-for="Auto.Transmision" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Auto.placa_id" class="Control-Label"></label>
+                <input asp-for="Auto.placa_id" class="form-control"/>
+                <span asp-validation-for="Auto.placa_id" class="text-danger"></span>
+            </div>            
+            <div class="form-group">
+                <input type="submit" value="Crear auto" class="btn btn-primary"/>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./List"  class="btn btn-secondary" > Volver</a>
+</div>
+
+
+
+

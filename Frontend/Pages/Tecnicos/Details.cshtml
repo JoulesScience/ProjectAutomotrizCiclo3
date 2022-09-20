@@ -1,0 +1,28 @@
+﻿@page
+@model MyApp.Namespace.DetailsModel2
+@{
+}
+<h1>Detalle técnico</h1>
+<br>
+<div class="row">
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Tecnico.Especialidad)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Tecnico.Especialidad)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Tecnico.Identificaion_id)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Tecnico.Identificaion_id)
+    </dd>    
+</div>
+<br>
+
+<form method="post">
+    <input type="hidden" asp-for="Tecnico.Id"> 
+</form>
+<div>
+    <a asp-page="./List"  class="btn btn-secondary" > Volver</a>
+</div>

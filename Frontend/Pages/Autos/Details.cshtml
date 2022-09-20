@@ -1,0 +1,35 @@
+﻿@page
+@model MyApp.Namespace.DetailsModel4
+@{
+}
+<h1>Detalle auto</h1>
+<br>
+<div class="row">
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Auto.Tipo)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Auto.Tipo)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Auto.Transmision)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Auto.Transmision)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Auto.placa_id)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Auto.placa_id)
+    </dd>    
+</div>
+<br>
+
+<form method="post">
+    <input type="hidden" asp-for="Auto.Id"> 
+</form>
+<div>
+    <a asp-page="./List"  class="btn btn-secondary" > Volver</a>
+</div>
+

@@ -1,0 +1,52 @@
+﻿@page
+@model MyApp.Namespace.DetailsModel3
+@{
+}
+<h1>Detalle vehiculo</h1>
+<br>
+<div class="row">
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Vehiculo.Marca)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Vehiculo.Marca)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Vehiculo.Color)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Vehiculo.Color)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Vehiculo.Modelo)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Vehiculo.Modelo)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Vehiculo.Cilindraje)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Vehiculo.Cilindraje)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Vehiculo.fecha_modelo)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Vehiculo.fecha_modelo)
+    </dd>
+    <dt class="col-md-2">
+        @Html.DisplayNameFor(m => m.Vehiculo.tipo_combustible)
+    </dt>
+    <dd class="col-md-10">
+       @Html.DisplayFor(m => m.Vehiculo.tipo_combustible)
+    </dd>    
+</div>
+<br>
+
+<form method="post">
+    <input type="hidden" asp-for="Vehiculo.Id"> 
+</form>
+<div>
+    <a asp-page="./List"  class="btn btn-secondary" > Volver</a>
+</div>
