@@ -17,6 +17,7 @@ namespace Dominio
         [RegularExpression("[0-9]*$",ErrorMessage="Digite solo numeros")]
         public string Celular { get; set; }
         public Tecnico tecnico { get; set; }
+        public Cliente cliente { get; set; }
  
       
       

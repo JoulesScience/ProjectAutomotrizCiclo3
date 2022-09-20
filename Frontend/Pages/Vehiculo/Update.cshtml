@@ -30,7 +30,7 @@
                 <input asp-for="Vehiculo.Cilindraje" class="form-control"/>
                 <span asp-validation-for="Vehiculo.Cilindraje" class="text-danger"></span>
             </div>
-            <input type="hidden" asp-for="Vehiculo.Id"/>
+            <input type="hidden" asp-for="Vehiculo.placa_id"/>
             <input type="hidden" asp-for="Vehiculo"/>
             <div class="form-group">
                 <input type="submit" value="modificar vehiculo" class="btn btn-primary" asp-page="Update/OnPost"/>

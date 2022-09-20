@@ -27,7 +27,7 @@
         </tr>
          @foreach (var vehiculo in Model.Vehiculos)
           {
-            <tr><td>@vehiculo.Id</td>
+            <tr><td>@vehiculo.placa_id</td>
                 <td>@vehiculo.Marca</td>
                  <td>@vehiculo.Color</td>
                  <td>@vehiculo.Modelo</td>
@@ -35,17 +35,17 @@
                  <td>@vehiculo.fecha_modelo</td>
                  <td>@vehiculo.tipo_combustible</td>
                  <td>
-                    <a class= "btn  btn-primary" asp-page="./Details" asp-route-id="@vehiculo.Id">
+                    <a class= "btn  btn-primary" asp-page="./Details" asp-route-id="@vehiculo.placa_id">
                     <i class="fa fa-circle"></i></a>
                     
                  </td>
                  <td>
-                    <a class= "btn  btn-danger" asp-page="./Delete" asp-route-id="@vehiculo.Id">
+                    <a class= "btn  btn-danger" asp-page="./Delete" asp-route-id="@vehiculo.placa_id">
                     <i class="fa-sharp fa-solid fa-trash"></i></a>
                     
                  </td>
                   <td>
-                    <a class= "btn  btn-primary" asp-page="./Update" asp-route-id="@vehiculo.Id">
+                    <a class= "btn  btn-primary" asp-page="./Update" asp-route-id="@vehiculo.placa_id">
                      <i class="fa-sharp fa-solid fa-pencil"></i>
                     </a>
                  </td>
