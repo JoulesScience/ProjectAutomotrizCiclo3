@@ -6,8 +6,10 @@ namespace Dominio
 {
     public class Persona
     {
-        //[Key][DatabaseGenerated(DatabaseGeneratedOption.None)]
+       //[Key][DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int Id { get; set; } //CedulaId
+        [Key]
+        public int Identificaion_id { get; set; } //CedulaId
         [Required(ErrorMessage="El campo Nombres es requerido"),Display(Name="Nombres"), StringLength(50)]
         public string Nombres { get; set; }
         [Required(ErrorMessage="El campo Apellidos es requerido"),StringLength(50)]
@@ -17,6 +19,8 @@ namespace Dominio
         [Required(ErrorMessage="El campo Celular es requerido"),StringLength(10)]
         [RegularExpression("[0-9]*$",ErrorMessage="Digite solo numeros")]
         public string Celular { get; set; }
+        public Tecnico tecnico { get; set; }
+ 
       
       
     }
