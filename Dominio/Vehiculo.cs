@@ -16,7 +16,9 @@ namespace Dominio
         public string Cilindraje { get; set; }
         public string fecha_modelo { get; set; }
         public string tipo_combustible { get; set; }
+        // Relacion una a un con auto
         public Auto auto { get; set; }
+        // Relacion una a un con camioneta
         public Camioneta camioneta { get; set; }
 
         

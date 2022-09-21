@@ -7,7 +7,6 @@ namespace Dominio
     public class Persona
     {
         //[Key][DatabaseGenerated(DatabaseGeneratedOption.None)]
-        public int Id { get; set; } //CedulaId
         [Key]
         public int Identificaion_id { get; set; } //CedulaId
         [Required(ErrorMessage="El campo Nombres es requerido"),Display(Name="Nombres"), StringLength(50)]

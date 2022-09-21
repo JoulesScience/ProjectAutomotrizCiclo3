@@ -15,6 +15,7 @@ namespace Dominio
         public string  Transmision { get; set; }
         [ForeignKey("Vehiculo")]   
         public int placa_id { get; set; }
+        //Relacion con vehiculo 1 a 1
         public virtual Vehiculo Vehiculo { get; set; }  
         
     }
