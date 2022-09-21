@@ -95,6 +95,8 @@ namespace persistencia.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("Factura_id");
+
                     b.HasIndex("Identificaion_id")
                         .IsUnique();
 
@@ -105,7 +107,7 @@ namespace persistencia.Migrations
 
             modelBuilder.Entity("Dominio.Factura", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("Factura_id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .UseIdentityColumn();
@@ -113,17 +115,17 @@ namespace persistencia.Migrations
                     b.Property<bool>("Cambio_aceite")
                         .HasColumnType("bit");
 
-                    b.Property<int>("Cliente_id")
+                    b.Property<int?>("ClienteId")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("Fecha")
                         .HasColumnType("datetime2");
 
+                    b.Property<int>("Id")
+                        .HasColumnType("int");
+
                     b.Property<string>("Observaciones")
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("Placa_id")
-                        .HasColumnType("int");
 
                     b.Property<int>("Tecnico_id")
                         .HasColumnType("int");
@@ -137,7 +139,16 @@ namespace persistencia.Migrations
                     b.Property<bool>("filtro_aire")
                         .HasColumnType("bit");
 
-                    b.HasKey("Id");
+                    b.Property<int>("placa_id")
+                        .HasColumnType("int");
+
+                    b.HasKey("Factura_id");
+
+                    b.HasIndex("ClienteId");
+
+                    b.HasIndex("Tecnico_id");
+
+                    b.HasIndex("placa_id");
 
                     b.ToTable("Facturas");
                 });
@@ -176,7 +187,7 @@ namespace persistencia.Migrations
 
             modelBuilder.Entity("Dominio.Tecnico", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("Tecnico_id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .UseIdentityColumn();
@@ -187,7 +198,7 @@ namespace persistencia.Migrations
                     b.Property<int>("Identificaion_id")
                         .HasColumnType("int");
 
-                    b.HasKey("Id");
+                    b.HasKey("Tecnico_id");
 
                     b.HasIndex("Identificaion_id")
                         .IsUnique();
@@ -257,6 +268,12 @@ namespace persistencia.Migrations
 
             modelBuilder.Entity("Dominio.Cliente", b =>
                 {
+                    b.HasOne("Dominio.Factura", "Factura")
+                        .WithMany()
+                        .HasForeignKey("Factura_id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("Dominio.Persona", "Persona")
                         .WithOne("cliente")
                         .HasForeignKey("Dominio.Cliente", "Identificaion_id")
@@ -269,7 +286,32 @@ namespace persistencia.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.Navigation("Factura");
+
                     b.Navigation("Persona");
+
+                    b.Navigation("Vehiculo");
+                });
+
+            modelBuilder.Entity("Dominio.Factura", b =>
+                {
+                    b.HasOne("Dominio.Cliente", null)
+                        .WithMany("Facturas")
+                        .HasForeignKey("ClienteId");
+
+                    b.HasOne("Dominio.Tecnico", "Tecnico")
+                        .WithMany()
+                        .HasForeignKey("Tecnico_id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Dominio.Vehiculo", "Vehiculo")
+                        .WithMany()
+                        .HasForeignKey("placa_id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Tecnico");
 
                     b.Navigation("Vehiculo");
                 });
@@ -290,6 +332,8 @@ namespace persistencia.Migrations
                     b.Navigation("Autos");
 
                     b.Navigation("Camionetas");
+
+                    b.Navigation("Facturas");
                 });
 
             modelBuilder.Entity("Dominio.Persona", b =>

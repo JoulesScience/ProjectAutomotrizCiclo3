@@ -28,12 +28,12 @@ namespace persistencia
         //implementado repositorio  Read, Leer o buscar un persona por id
         Tecnico IRepositorioTecnico.Get(int idTecnico){
             return  _applicationContext.tecnicos.FirstOrDefault(
-                t => t.Id == idTecnico);
+                t => t.Tecnico_id == idTecnico);
         }
         //implementado repositorio Update, actulizar datos
         Tecnico IRepositorioTecnico.Update(Tecnico tecnico){
             var  tecnico_encontrada = _applicationContext.tecnicos.FirstOrDefault(
-                t => t.Id == tecnico.Id);
+                t => t.Tecnico_id == tecnico.Tecnico_id);
             if(tecnico_encontrada != null){
                 tecnico_encontrada.Especialidad = tecnico.Especialidad;
                 tecnico_encontrada.Identificaion_id = tecnico.Identificaion_id;                
@@ -44,7 +44,7 @@ namespace persistencia
         //implementado repositorio Delete 
         void IRepositorioTecnico.Delete(int idTecnico){
             var  tecnico_encontrada = _applicationContext.tecnicos.FirstOrDefault(
-                t => t.Id == idTecnico);
+                t => t.Tecnico_id == idTecnico);
             if(tecnico_encontrada== null){
                 return;
                 }

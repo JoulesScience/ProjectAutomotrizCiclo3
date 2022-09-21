@@ -35,6 +35,9 @@ namespace Frontend
             services.AddScoped<IRepositorioCamioneta,RepositorioCamioneta>();
 
             services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddControllersWithViews();  //punto 12 Adicionado taller laboratorio 1 semana 7
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,10 +55,12 @@ namespace Frontend
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
+            app.UseStaticFiles();  //verificado taller laboratorio 1 semana 7
 
             app.UseRouting();
 
+            app.UseAuthentication(); //punto 11 Adicionado taller laboratorio 1 semana 7
+            
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

@@ -10,7 +10,7 @@ namespace Dominio
     public class Tecnico
     {   
         [Key]
-        public int Id { get; set; }
+        public int Tecnico_id { get; set; }
         public string Especialidad { get; set; }
         [ForeignKey("Persona")]
         public int Identificaion_id { get; set; }
