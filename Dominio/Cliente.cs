@@ -15,9 +15,17 @@ namespace Dominio
         
         [ForeignKey("Persona")]
         public int Identificaion_id { get; set; }
+        
+        [ForeignKey("Vehiculo")]
         public int placa_id { get; set; }
 
         public virtual Persona Persona { get; set; }
+        public virtual Vehiculo Vehiculo { get; set; }
+
+
+        public List<Auto> Autos { get; set;}
+        public List<Camioneta> Camionetas { get; set;}
+
         
     }
 }

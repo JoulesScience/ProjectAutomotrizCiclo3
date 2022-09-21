@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+pAScykLC1L8DNpHfXD+jTh4dBHZQtIK2uy+akUxokGR8KjO4pNi/7eRspqEGb2+P7FRvYQNzmHxdfU3RzhBFg==",
+  "dgSpecHash": "Cd2JBFEB/ZZIe0ho02wkk262dF190wLJPHBAVep+Tb+KSDZq+QnQbKk/QMZRdg2L8x17Chgs65WJco9WGd58gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\Frontend\\Frontend.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\ProyectosNET\\ProjectAutomotrizCiclo3\\frontend\\Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
