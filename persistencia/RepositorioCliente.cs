@@ -35,7 +35,7 @@ namespace persistencia
             var  cliente_encontrada = _applicationContext.clientes.FirstOrDefault(
                 c => c.Id == cliente.Id);
             if(cliente_encontrada != null){
-                cliente_encontrada.Factura_id = cliente.Factura_id;
+                //cliente_encontrada.Factura_id = cliente.Factura_id;
                 cliente_encontrada.Identificaion_id = cliente.Identificaion_id;
                 cliente_encontrada.placa_id  = cliente.placa_id;                
                 }

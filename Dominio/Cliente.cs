@@ -11,8 +11,8 @@ namespace Dominio
     {
         [Key]
         public int Id{ get; set; }
-        [ForeignKey("Factura")]
-        public int Factura_id { get; set; }
+        //[ForeignKey("Factura")] //sobra
+        //public int Factura_id { get; set; } //sobra
         
         [ForeignKey("Persona")]
         public int Identificaion_id { get; set; }
@@ -22,11 +22,12 @@ namespace Dominio
         //para las foreignkey
         public virtual Persona Persona { get; set; }
         public virtual Vehiculo Vehiculo { get; set; }
-        public virtual Factura Factura { get; set; }
+        //public virtual Factura Factura { get; set; }
         //Relacion de uno a muchos
-        public List<Auto> Autos { get; set;} // sera con vehiculos
-        public List<Camioneta> Camionetas { get; set;}// sera con vehiculos
-        public List<Factura> Facturas { get; set;}
+        public List<Vehiculo> Vehichulos { get; set;} // sera con vehiculos
+        //public List<Auto> Autos { get; set;} // sera con vehiculos
+        //public List<Camioneta> Camionetas { get; set;}// sera con vehiculos
+       //public List<Factura> Facturas { get; set;}
 
         
     }

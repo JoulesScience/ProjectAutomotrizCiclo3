@@ -18,7 +18,9 @@ namespace Dominio
         [Required(ErrorMessage="El campo Celular es requerido"),StringLength(10)]
         [RegularExpression("[0-9]*$",ErrorMessage="Digite solo numeros")]
         public string Celular { get; set; }
+        // relaciones uno a uno con tecnico
         public Tecnico tecnico { get; set; }
+        // relaciones uno a uno con cliente
         public Cliente cliente { get; set; }
  
       
